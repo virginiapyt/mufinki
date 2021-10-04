@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Słodkie co nieco</string>
+    <string name="choose">Wybierz rodzaj</string>
+    <array name="type">
+        <item>napoje</item>
+        <item>desery</item>
+        <item>ciasta</item>
+        <item>ciastka</item>
+    </array>
+
+
+</resources>
